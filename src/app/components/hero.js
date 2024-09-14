@@ -58,16 +58,17 @@ const hero = () => {
 
             <BoxReveal boxColor={<Skeleton className='h-10 w-full' />} duration={0.4}>
               <p className='text-xl font-thin py-1 text-center lg:text-start md:text-center w-full'>
-                Transform your space with professional cleaning. Book today for just $49. Satisfaction guaranteed or get your money back.
+                Choose A2Z Cleaning & Repairing Services for top-tier cleaning and repair solutions. Your satisfaction is our priority, or your money back!
               </p>
+
             </BoxReveal>
 
             <BoxReveal boxColor={<Skeleton className='h-12 w-full' />} duration={0.4}>
               <div className='py-4 flex flex-wrap flex-row items-center justify-center sm:justify-start text-center md:text-center gap-6 w-full'>
                 <a href='/book-now'>
-                <button className='bg-[#007aff] hover:bg-blue-700 hover:shadow-lg transition-all text-xl capitalize flex items-center text-white sm:gap-1 lg:gap-2 md:gap-2 px-4 font-medium py-2 rounded-lg'>
-                  <IoDiamondOutline className="hidden sm:hidden md:block lg:block" /> Book our Service
-                </button>
+                  <button className='bg-[#007aff] hover:bg-blue-700 hover:shadow-lg transition-all text-xl capitalize flex items-center text-white sm:gap-1 lg:gap-2 md:gap-2 px-4 font-medium py-2 rounded-lg'>
+                    <IoDiamondOutline className="hidden sm:hidden md:block lg:block" /> Book our Service
+                  </button>
                 </a>
                 <img src="https://s.driving-tests.org/cdl-premium/passguarantee-orig.svg" className='w-22 h-12' />
                 {/* <button className='bg-green-400 transition-all text-xl capitalize flex items-center text-white sm:gap-1 lg:gap-2 md:gap-2 px-4 font-medium py-2 rounded-lg'>
@@ -135,7 +136,7 @@ const hero = () => {
             </div>
           </BoxReveal>
         </div>
-        
+
       </section>
     </>
   );

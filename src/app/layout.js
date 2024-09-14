@@ -15,10 +15,10 @@ export const metadata = {
     title: "A2Z Cleaning Service - Professional Cleaning in Sydney",
     description: "A2Z Cleaning Service provides expert cleaning services in Sydney. We offer residential and commercial cleaning solutions tailored to your needs.",
     type: "website",
-    url: "https://www.a2zcleaningservice.com",
+    url: "https://www.a2zcleaningsewa.com",
     images: [
       {
-        url: "https://www.a2zcleaningservice.com/cleaning_banner.png",
+        url: "https://www.a2zcleaningsewa.com/cleaning_banner.png",
         width: 1200,
         height: 630,
         alt: "A2Z Cleaning Service",
@@ -30,9 +30,9 @@ export const metadata = {
     site: "@A2ZCleaning",
     title: "A2Z Cleaning Service - Professional Cleaning in Sydney",
     description: "A2Z Cleaning Service provides expert cleaning solutions in Sydney.",
-    image: "https://www.a2zcleaningservice.com/cleaning_banner.png",
+    image: "https://www.a2zcleaningsewa.com/cleaning_banner.png",
   },
-  canonical: "https://www.a2zcleaningservice.com",
+  canonical: "https://www.a2zcleaningsewa.com",
 };
 
 export default function RootLayout({ children }) {
