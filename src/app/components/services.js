@@ -27,7 +27,7 @@ const services = [
     title: "Marble Cleaning & Polishing",
     description: "Polish your marble surfaces for a sparkling shine.",
     benefits: ["Expert Polishing", "Restores Shine", "Affordable Prices"],
-    image: 'https://img.freepik.com/free-photo/concept-man-cleaning-his-home_23-2148133381.jpg',
+    image: '/marble.jpeg',
   },
   {
     title: "Chimney Cleaning & Repair",
@@ -63,7 +63,7 @@ const services = [
     title: "Pest Control",
     description: "Eliminate pests with our professional pest control service.",
     benefits: ["Safe Chemicals", "Effective Pest Removal", "7-Day Availability"],
-    image: 'https://img.freepik.com/premium-photo/health-workers-hazmat-suit-clothes-gas-mask-spraying-disinfectant-liquid-pesticide-virus_326694-259560.jpg?w=900',
+    image: '/pest.jpeg',
   },
   {
     title: "Parquet Cleaning & Polishing",
