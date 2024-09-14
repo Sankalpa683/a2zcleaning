@@ -66,7 +66,7 @@ const hero = () => {
               <div className='py-4 flex flex-wrap flex-row items-center justify-center sm:justify-start text-center md:text-center gap-6 w-full'>
                 <a href='/book-now'>
                 <button className='bg-[#007aff] hover:bg-blue-700 hover:shadow-lg transition-all text-xl capitalize flex items-center text-white sm:gap-1 lg:gap-2 md:gap-2 px-4 font-medium py-2 rounded-lg'>
-                  <IoDiamondOutline className="hidden sm:hidden md:block lg:block" /> Book our Service Online
+                  <IoDiamondOutline className="hidden sm:hidden md:block lg:block" /> Book our Service
                 </button>
                 </a>
                 <img src="https://s.driving-tests.org/cdl-premium/passguarantee-orig.svg" className='w-22 h-12' />
@@ -131,7 +131,7 @@ const hero = () => {
           </div>
           <BoxReveal boxColor={<Skeleton className='h-8 w-full' />} duration={0.4}>
             <div className='w-[500px] hidden lg:block flex-wrap items-center justify-center'>
-              <img src='https://exitcleaners.com.au/wp-content/uploads/2023/12/end-of-lease-cleaning-sydney.png' className='w-full rounded-lg border-4 border-blue-400' />
+              <img src='/heropic.jpg' className='w-[600px] h-[420px] rounded-lg border-4 border-blue-400' />
             </div>
           </BoxReveal>
         </div>

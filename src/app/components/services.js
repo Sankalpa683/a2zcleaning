@@ -6,66 +6,121 @@ import Button from "@/components/button"
 
 const services = [
   {
-    title: "End of Lease Cleaning",
-    description: "Recommended if you’re moving out of a rental property and need your bond back. And for landlords looking to put their property on the market.",
-    benefits: [
-      "Super Affordable Prices",
-      "Available 7 Days A Week",
-      "100% Bond Back Guarantee"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2024/04/end-of-lease-cleaning.png',
+    title: "Galicha Cleaning",
+    description: "Get your galicha (rug) cleaned professionally for a fresh look.",
+    benefits: ["Super Affordable Prices", "Available 7 Days A Week", "Fast & Reliable Service"],
+    image: 'https://example.com/galicha-cleaning.png',
   },
   {
-    title: "Move-in cleaning",
-    description: "Recommended if you’re moving into a property and want it professionally cleaned before you settle in.",
-    benefits: [
-      "Super Affordable Prices",
-      "Available 7 Days A Week",
-      "100% Satisfaction Guarantee"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2023/12/Move-in-cleaning-Sydney-NSW-Exit-Cleaners.png',
+    title: "Galaicha Colour",
+    description: "Restore or change your rug's color for a renewed appearance.",
+    benefits: ["Professional Restoration", "Custom Color Options", "100% Satisfaction Guarantee"],
+    image: 'https://example.com/galaicha-colour.png',
   },
   {
     title: "Carpet Cleaning",
-    description: "Recommended if you're looking to get professionally cleaned carpets. And for end of lease cleans to pass your final inspection.",
-    benefits: [
-      "Professional Grade Cleaning",
-      "Available 7 Days A Week",
-      "Fast & Easy Online Booking"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2023/12/Carpet-steam-cleaning-Sydney-NSW-Exit-Cleaners-1.png',
+    description: "Deep carpet cleaning to remove dirt and allergens.",
+    benefits: ["Affordable Prices", "7-Day Availability", "Professional Equipment"],
+    image: 'https://example.com/carpet-cleaning.png',
   },
   {
-    title: "General Cleaning",
-    description: "Great for homes looking for a touch up clean. Recommended if your home is regularly cleaned & maintained.",
-    benefits: [
-      "Super Affordable Prices",
-      "Available 7 Days A Week",
-      "100% Satisfaction Guarantee"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2024/04/general-cleaning-service.png',
+    title: "Marble Cleaning & Polishing",
+    description: "Polish your marble surfaces for a sparkling shine.",
+    benefits: ["Expert Polishing", "Restores Shine", "Affordable Prices"],
+    image: 'https://example.com/marble-polishing.png',
   },
   {
-    title: "Deep cleaning",
-    description: "Recommended for homes not professionally cleaned in over 30 days. And for first-time visits to get your home prepared for ongoing maintenance.",
-    benefits: [
-      "Super Affordable Prices",
-      "Available 7 Days A Week",
-      "100% Satisfaction Guarantee"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2024/04/deep-cleaning-service.png',
+    title: "Chimney Cleaning & Repair",
+    description: "Ensure your chimney is clean and working efficiently.",
+    benefits: ["Affordable Prices", "Safe & Professional", "Quick Service"],
+    image: 'https://example.com/chimney-cleaning.png',
   },
   {
-    title: "Regular Cleaning",
-    description: "Recommended for busy families and professionals looking for a consistently clean home without the stress.",
-    benefits: [
-      "Super Affordable Prices",
-      "Available 7 Days A Week",
-      "100% Satisfaction Guarantee"
-    ],
-    image: 'https://exitcleaners.com.au/wp-content/uploads/2024/04/regular-cleaning-service.png',
+    title: "Water Tank Cleaning",
+    description: "Clean your water tank to ensure safe and hygienic water.",
+    benefits: ["Health-Safe Cleaning", "Quick & Efficient", "Affordable Prices"],
+    image: 'https://example.com/water-tank-cleaning.png',
+  },
+  {
+    title: "Deep Cleaning",
+    description: "Thorough cleaning for homes that need extra attention.",
+    benefits: ["Affordable Prices", "Professional Team", "Satisfaction Guaranteed"],
+    image: 'https://example.com/deep-cleaning.png',
+  },
+  {
+    title: "Pigeon Net Installing",
+    description: "Install nets to keep pigeons away from your space.",
+    benefits: ["Durable Nets", "Affordable Prices", "Quick Installation"],
+    image: 'https://example.com/pigeon-net.png',
+  },
+  {
+    title: "Bird Spikes Installing",
+    description: "Prevent birds from nesting on your property with bird spikes.",
+    benefits: ["Professional Installation", "Effective Solution", "Affordable Prices"],
+    image: 'https://example.com/bird-spikes.png',
+  },
+  {
+    title: "Pest Control",
+    description: "Eliminate pests with our professional pest control service.",
+    benefits: ["Safe Chemicals", "Effective Pest Removal", "7-Day Availability"],
+    image: 'https://example.com/pest-control.png',
+  },
+  {
+    title: "Parquet Cleaning & Polishing",
+    description: "Revive your parquet flooring with cleaning and polishing.",
+    benefits: ["Restores Shine", "Professional Service", "Affordable Prices"],
+    image: 'https://example.com/parquet-cleaning.png',
+  },
+  {
+    title: "Glass Cleaning",
+    description: "Crystal-clear glass cleaning for homes and businesses.",
+    benefits: ["Streak-Free Results", "Professional Equipment", "Affordable Prices"],
+    image: 'https://example.com/glass-cleaning.png',
+  },
+  {
+    title: "House Wiring",
+    description: "Safe and reliable electrical wiring for your home.",
+    benefits: ["Certified Electricians", "Affordable Pricing", "Reliable Service"],
+    image: 'https://example.com/house-wiring.png',
+  },
+  {
+    title: "Plumber Service",
+    description: "Professional plumbing services for all your needs.",
+    benefits: ["Expert Plumbers", "Affordable Prices", "Quick Response"],
+    image: 'https://example.com/plumber-service.png',
+  },
+  {
+    title: "Electrician Service",
+    description: "Licensed electricians for home and commercial services.",
+    benefits: ["Certified Professionals", "Affordable Prices", "Quick Response"],
+    image: 'https://example.com/electrician-service.png',
+  },
+  {
+    title: "Washing Machine Repair & Installation",
+    description: "Quick and reliable washing machine repair and installation.",
+    benefits: ["Expert Technicians", "Affordable Prices", "Same-Day Service"],
+    image: 'https://example.com/washing-machine-repair.png',
+  },
+  {
+    title: "Fridge Repair",
+    description: "Get your fridge fixed by experienced technicians.",
+    benefits: ["Affordable Prices", "7-Day Availability", "Professional Repair"],
+    image: 'https://example.com/fridge-repair.png',
+  },
+  {
+    title: "AC Repair & Installation",
+    description: "Professional AC repair and installation services.",
+    benefits: ["Expert Technicians", "Affordable Pricing", "Same-Day Service"],
+    image: 'https://example.com/ac-repair.png',
+  },
+  {
+    title: "LED TV Repair & Installation",
+    description: "Repair or install your LED TV with our expert service.",
+    benefits: ["Expert Technicians", "Affordable Prices", "Same-Day Service"],
+    image: 'https://example.com/led-tv-repair.png',
   },
 ];
+
 
 const Service = ({ title, description, benefits, image }) => {
   return (
