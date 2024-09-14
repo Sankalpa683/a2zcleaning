@@ -6,7 +6,7 @@ import Button from "@/components/button"
 
 const services = [
   {
-    title: "Galicha Cleaning",
+    title: "Galaicha Cleaning",
     description: "Get your galicha (rug) cleaned professionally for a fresh look.",
     benefits: ["Super Affordable Prices", "Available 7 Days A Week", "Fast & Reliable Service"],
     image: 'https://img.freepik.com/free-photo/people-housework-housekeeping-concept-close-up-woman-with-legs-vacuum-cleaner-cleaning-carpet-home_231208-13612.jpg',
