@@ -21,7 +21,7 @@ const hero = () => {
         <div className='flex px-3 flex-wrap items-center text-3xl justify-center gap-10 lg:text-4xl md:text-4xl sm:items-center md:items-center lg:items-start'>
 
           <div className='w-[500px] md:block lg:hidden sm:block flex-wrap items-center justify-center'>
-            <img src='https://scontent.fbir1-1.fna.fbcdn.net/v/t39.30808-6/399198369_304563299047515_1567329813544966868_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHLmbBd7Ji6nU-2x-s3anSlGbJIIVjBeY4ZskghWMF5jsVQVf0aWT-IVWeZtPp0raCirUCtMZBfizrmxE4dAefY&_nc_ohc=BvOh6UvY8VkQ7kNvgEJ-d5G&_nc_ht=scontent.fbir1-1.fna&_nc_gid=AEcJsTzlnnSAnzhK0S_Qkef&oh=00_AYCus6tC_NJJPVmVGlSiGFZOXoo45iQOc8eW8EytPnnZkg&oe=66EB606B' className='w-full shadow-lg rounded-lg' />
+            <img src='/heropic.jpg' className='w-full shadow-lg rounded-lg' />
           </div>
 
           <div className='text-center py-6 flex flex-col flex-wrap items-center md:items-start lg:items-start justify-center w-full lg:w-[800px]'>
@@ -35,7 +35,7 @@ const hero = () => {
 
             <BoxReveal boxColor={<Skeleton className='h-12 w-full' />} duration={0.4}>
               <h1 className='text-4xl block lg:hidden font-extrabold text-center md:text-start lg:text-start w-full sm:w-[700px]'>
-                Sydney's Top-Rated
+                Nepal's Top-Rated
                 <span className='text-[#007aff]'> Cleaning Services.</span>
               </h1>
             </BoxReveal>
@@ -130,7 +130,7 @@ const hero = () => {
 
           </div>
           <BoxReveal boxColor={<Skeleton className='h-8 w-full' />} duration={0.4}>
-            <div className='w-[500px] hidden lg:block flex-wrap items-center justify-center'>
+            <div className='w-full hidden lg:block flex-wrap items-center justify-center'>
               <img src='/heropic.jpg' className='w-[600px] h-[420px] rounded-lg border-4 border-blue-400' />
             </div>
           </BoxReveal>

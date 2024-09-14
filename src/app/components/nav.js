@@ -27,7 +27,7 @@ const Nav = () => {
                                 alt='Logo'
                             />
                             <span className='font-bold lg:font-extrabold text-xl lg:text-2xl flex gap-1'>
-                                A2Z Cleaning<br /><span className='text-[#007aff]'>Service</span>
+                                A2Z cleaning &  <br /><span className='text-[#007aff]'>Repair Sewa</span>
                             </span>
                         </div>
                     </a>
@@ -41,7 +41,7 @@ const Nav = () => {
                     <div className='hidden sm:flex gap-6 lg:gap-5 justify-center items-center'>
                         <a href='/book-now'>
                             <button className='bg-[#007aff] hover:bg-blue-700 hover:shadow-lg transition-all text-sm sm:text-lg capitalize flex items-center text-white gap-2 px-4 font-medium py-2 rounded-lg'>
-                                <IoDiamondOutline /> Book our service 
+                                <IoDiamondOutline /> Book our service
                             </button>
                         </a>
                     </div>
@@ -69,7 +69,7 @@ const Nav = () => {
                             <div className='pt-4 w-full justify-center items-center text-center'>
                                 <a href="/book-now">
                                     <button className='bg-[#007aff] py-3 text-center justify-center w-full capitalize flex items-center text-white gap-2 px-4 font-medium  rounded-lg'>
-                                        <IoDiamondOutline /> Book our service 
+                                        <IoDiamondOutline /> Book our service
                                     </button>
                                 </a>
                             </div>
