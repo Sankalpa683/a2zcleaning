@@ -74,8 +74,8 @@ const Pricing = () => {
                         </div>
                         <div className='w-full flex-col flex-wrap justify-center items-end'>
                             <div className='flex justify-between items-center pb-4 px-2 w-full'>
-                                <p className='text-4xl font-bold'>$99</p>
-                                <p>$11/day</p>
+                                <p className='text-4xl font-bold'>Rs 6,000</p>
+                                <p>Est: Rs 5,000 - 10,000</p>
                             </div>
                             <a href='/book-now'>
                                 <button className='bg-[#007aff] rounded-lg text-white p-4 py-3 w-full flex flex-col flex-wrap items-center text-center justify-center'>Book Now</button>
@@ -119,8 +119,8 @@ const Pricing = () => {
                         </div>
                         <div className='w-full flex-col flex-wrap justify-center items-end'>
                             <div className='flex justify-between items-center pb-4 px-2 w-full'>
-                                <p className='text-4xl font-bold'>$199</p>
-                                <p>$22/day</p>
+                                <p className='text-4xl font-bold'>Rs 12,000</p>
+                                <p>Est: Rs 10,000 - 15,000</p>
                             </div>
                             <a href='/book-now'>
                                 <button className='bg-[#007aff] rounded-lg text-white p-4 py-3 w-full flex flex-col flex-wrap items-center text-center justify-center'>Book Now</button>
@@ -157,15 +157,15 @@ const Pricing = () => {
                     <div className='flex flex-wrap flex-col rounded-lg justify-center items-start shadow-custom py-6 p-4 w-[450px]'>
                         <div className='flex flex-wrap flex-col gap-1 pb-5 break-all'>
                             <div className='py-2'>
-                                <span className='text-lg uppercase font-medium'>End of Lease</span>
-                                <h1 className='text-2xl font-bold capitalize'>Move-Out Clean</h1>
+                                <span className='text-lg uppercase font-medium'>Highly Professional Cleaning</span>
+                                <h1 className='text-2xl font-bold capitalize'>Extreme Cleaning</h1>
                             </div>
                             <p className='font-thin text-gray-600'>Ensure your place is spotless before moving out. Comprehensive cleaning to meet rental requirements.</p>
                         </div>
                         <div className='w-full flex-col flex-wrap justify-center items-end'>
                             <div className='flex justify-between items-center pb-4 px-2 w-full'>
-                                <p className='text-4xl font-bold'>$299</p>
-                                <p>$33/day</p>
+                                <p className='text-4xl font-bold'>Rs 30,000</p>
+                                <p>Rs 20,000 - 35,000</p>
                             </div>
                             <a href='/book-now'>
                                 <button className='bg-[#007aff] rounded-lg text-white p-4 py-3 w-full flex flex-col flex-wrap items-center text-center justify-center'>Book Now</button>
