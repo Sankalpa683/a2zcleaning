@@ -165,7 +165,7 @@ const Pricing = () => {
                         <div className='w-full flex-col flex-wrap justify-center items-end'>
                             <div className='flex justify-between items-center pb-4 px-2 w-full'>
                                 <p className='text-4xl font-bold'>Rs 30,000</p>
-                                <p>Rs 20,000 - 35,000</p>
+                                <p>Est: Rs 20,000 - 35,000</p>
                             </div>
                             <a href='/book-now'>
                                 <button className='bg-[#007aff] rounded-lg text-white p-4 py-3 w-full flex flex-col flex-wrap items-center text-center justify-center'>Book Now</button>
