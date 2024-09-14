@@ -9,7 +9,7 @@ const Footer = () => {
           <div className='flex items-center justify-center text-center w-full text-gray-500 mt-4'>
             <p>Copyright &copy; 2024 <span className='text-[#007aff]'>A2Z Cleaning Service</span>. All Rights Reserved.</p>
           </div><br />
-          <div className='flex flex-col sm:flex-col justify-center gap-4 items-center space-y-2'>
+          <div className='flex flex-col sm:flex-row justify-center gap-4 items-center space-y-2'>
             
             <div className='flex items-center space-x-2 text-gray-600'>
               <FaEnvelope className='text-[#007aff]' />
