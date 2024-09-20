@@ -39,7 +39,7 @@ const services = [
     title: "Water Tank Cleaning",
     description: "Clean your water tank to ensure safe and hygienic water.",
     benefits: ["Health-Safe Cleaning", "Quick & Efficient", "Affordable Prices"],
-    image: 'https://img.freepik.com/premium-photo/engineer-working-using-laptop-computer-check-water-management-system-boiler-water-pipe_51137-7442.jpg?w=1060',
+    image: '/tankcleaning.jpg',
   },
   {
     title: "Deep Cleaning",
@@ -48,16 +48,22 @@ const services = [
     image: 'https://img.freepik.com/free-photo/full-shot-people-cleaning-office_23-2150454568.jpg?t=st=1726327421~exp=1726331021~hmac=744f8a10e00697999226e73dad5d86a19296bb795c35bf0a1abdc18260d56aac&w=996',
   },
   {
+    title: "Kitchen chimney cleaning and repair",
+    description: "Clean your Kitchen from your cleaning services to ensure safe and hygienic Kitchen",
+    benefits: ["Health-Safe Cleaning", "Affordable Prices", "Quick & Efficient"],
+    image: '/kitchen.jpeg',
+  },
+  {
     title: "Pigeon Net Installing",
     description: "Install nets to keep pigeons away from your space.",
     benefits: ["Durable Nets", "Affordable Prices", "Quick Installation"],
-    image: 'https://img.freepik.com/free-photo/close-up-person-s-hand-feeding-food-deer-cage_23-2147923920.jpg?t=st=1726326263~exp=1726329863~hmac=15560a15d70c2fb768d6f11f1c7e443c2c23d306c7c5cc1d349861f008270dbf&w=360',
+    image: '/pegionnet.jpg',
   },
   {
     title: "Bird Spikes Installing",
     description: "Prevent birds from nesting on your property with bird spikes.",
     benefits: ["Professional Installation", "Effective Solution", "Affordable Prices"],
-    image: 'https://img.freepik.com/premium-photo/bird-were-caught-by-gardener-hand-holding-mesh-white-backgroundillegal-bird-trap_35148-1466.jpg?w=996',
+    image: '/birdspkies.jpeg',
   },
   {
     title: "Pest Control",
@@ -75,13 +81,19 @@ const services = [
     title: "Glass Cleaning",
     description: "Crystal-clear glass cleaning for homes and businesses.",
     benefits: ["Streak-Free Results", "Professional Equipment", "Affordable Prices"],
-    image: 'https://img.freepik.com/free-photo/male-housekeeper-cleaning-glass-window-home_58466-11238.jpg?t=st=1726327503~exp=1726331103~hmac=36727c8d4145557f90c1e5a19516d77e920ba4cf4a79a15852bbf9da0870e140&w=996',
+    image: '/glasscleaning.jpg',
   },
   {
     title: "House Wiring",
     description: "Safe and reliable electrical wiring for your home.",
     benefits: ["Certified Electricians", "Affordable Pricing", "Reliable Service"],
     image: 'https://img.freepik.com/free-photo/electrician-is-mounting-electric-sockets-white-wall-indoors_169016-17799.jpg?t=st=1726327526~exp=1726331126~hmac=bafba842a43104f4f166c808f032547000694504d0b16d44b9bf5c981bcef7fa&w=996',
+  },
+  {
+    title: "Sofa Cleaning",
+    description: "Safe and reliable Sofa Cleaning for your home.",
+    benefits: ["Certified CLeaning", "Affordable Pricing", "Reliable Service"],
+    image: '/sofacleaning.jpg',
   },
   {
     title: "Plumber Service",
@@ -93,7 +105,7 @@ const services = [
     title: "Electrician Service",
     description: "Licensed electricians for home and commercial services.",
     benefits: ["Certified Professionals", "Affordable Prices", "Quick Response"],
-    image: 'https://img.freepik.com/free-photo/young-handyman-measuring-voltage_23-2147743072.jpg?t=st=1726326420~exp=1726330020~hmac=0c818b78eb5b714d8c901f4d80b0a745ffd13f42c8541995f528bc2afab877a2&w=996',
+    image: '/electiricalservice.jpg',
   },
   {
     title: "Washing Machine Repair & Installation",
