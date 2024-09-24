@@ -123,7 +123,7 @@ const services = [
     title: "LED TV Repair & Installation",
     description: "Repair or install your LED TV with our expert service.",
     benefits: ["Expert Technicians", "Affordable Prices", "Same-Day Service"],
-    image: 'https://img.freepik.com/free-photo/front-view-man-repairing-computer_23-2148419159.jpg?t=st=1726326326~exp=1726329926~hmac=afc3557474d232978f6452f39eb77ddc7e8de0e840f5b2189b6d195df72a778c&w=996',
+    image: '/ledtv.jpg',
   },
 ];
 
