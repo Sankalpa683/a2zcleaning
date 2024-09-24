@@ -7,7 +7,7 @@ const Footer = () => {
       <section className='py-4 pb-6 h-fit z-50 absolute w-full bg-white'>
         <div className='flex flex-col px-2 lg:px-8 items-center justify-between'>
           <div className='flex items-center justify-center text-center w-full text-gray-500 mt-4'>
-            <p>Copyright &copy; 2024 <span className='text-[#007aff]'>A2Z Cleaning Service</span>. Made by Sankalpa Dahal.</p>
+            <p>Copyright &copy; 2024 <span className='text-[#007aff]'>A2Z Cleaning Service</span>. Operated by Ravi Shekhar Nidhi.</p>
           </div><br />
           <div className='flex flex-col sm:flex-row justify-center gap-4 items-center space-y-2'>
             
