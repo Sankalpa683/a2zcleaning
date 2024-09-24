@@ -102,6 +102,12 @@ const services = [
     image: '/electiricalservice.jpg',
   },
   {
+    title: "Painting Services",
+    description: "Fast and reliable painting services to beautifully transform your home.",
+    benefits: ["Expert Painters", "Affordable Prices", "Reliable Service"],
+    image: '/paintingservice.jpg',
+  },  
+  {
     title: "Washing Machine Repair & Installation",
     description: "Quick and reliable washing machine repair and installation.",
     benefits: ["Expert Technicians", "Affordable Prices", "Same-Day Service"],
