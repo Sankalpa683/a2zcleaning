@@ -30,12 +30,6 @@ const services = [
     image: '/marble.jpeg',
   },
   {
-    title: "Chimney Cleaning & Repair",
-    description: "Ensure your chimney is clean and working efficiently.",
-    benefits: ["Affordable Prices", "Safe & Professional", "Quick Service"],
-    image: 'https://img.freepik.com/free-photo/man-doing-professional-home-cleaning-service_23-2150358945.jpg',
-  },
-  {
     title: "Water Tank Cleaning",
     description: "Clean your water tank to ensure safe and hygienic water.",
     benefits: ["Health-Safe Cleaning", "Quick & Efficient", "Affordable Prices"],
