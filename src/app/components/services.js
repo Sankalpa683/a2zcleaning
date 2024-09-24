@@ -69,7 +69,7 @@ const services = [
     title: "Parquet Cleaning & Polishing",
     description: "Revive your parquet flooring with cleaning and polishing.",
     benefits: ["Restores Shine", "Professional Service", "Affordable Prices"],
-    image: 'https://img.freepik.com/free-photo/man-vacuuming-with-vacuum-cleaner-parquet-floor-living-room_1398-3840.jpg?t=st=1726327465~exp=1726331065~hmac=dd680a99ad743969826a76b29877ab7e56b39fe953e4f1deeca0000936674937&w=900',
+    image: '/packetcleaning.jpg',
   },
   {
     title: "Glass Cleaning",
