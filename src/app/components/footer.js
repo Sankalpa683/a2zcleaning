@@ -13,7 +13,7 @@ const Footer = () => {
             
             <div className='flex items-center space-x-2 text-gray-600'>
               <FaEnvelope className='text-[#007aff]' />
-              <span>atozhomerepairservice@gmail.com</span>
+              <span>atozcleaningandrepairsewa@gmail.com</span>
             </div>
             
             <div className='flex items-center space-x-2 text-gray-600'>
